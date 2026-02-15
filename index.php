@@ -10,15 +10,3 @@ if (!empty($id) && file_exists($file)) {
     }
 }
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>403 Forbidden</title>
-    <style>
-        body { background: #fff; color: #000; font-family: monospace; padding: 20px; }
-    </style>
-</head>
-<body>
-    Access Denied
-</body>
-</html>
